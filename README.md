@@ -8,7 +8,7 @@ sudutnya di OLED 128x64 lengkap dengan status DATAR, MIRING, atau
 TERLALU MIRING. Kalau miringnya lewat 45 derajat, buzzer langsung bunyi.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/F-Ij5zJrw7I
 
 ## Komponen
 
